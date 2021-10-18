@@ -2,8 +2,8 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "consolidado-sugestoes-melhoria-pdt",
-      "path": "data/consolidado-sugestoes-melhoria-pdt.csv",
+      "name": "consolidado_sugestoes_melhoria_pdt",
+      "path": "data/consolidado_sugestoes_melhoria_pdt.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
