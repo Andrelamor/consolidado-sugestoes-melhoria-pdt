@@ -143,6 +143,7 @@
       "dialect":{
         "delimiter": ";",
         "doubleQuote": true,
+        "header": true,
         "lineTerminator": "\r\n",
         "quoteChar": "\"",
         "skipInitialSpace": true,
