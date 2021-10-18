@@ -142,7 +142,7 @@
       "encoding": "utf-8",
       "dialect":{
         "delimiter": ";"
-      },
+      }
     }
   ],
   "name": "projeto_pesquisa_experiencia_usuario_pdt",
