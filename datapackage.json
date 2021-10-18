@@ -141,7 +141,12 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "dialect":{
-        "delimiter": ";"
+        "delimiter": ";",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": true,
+        "caseSensitiveHeader": true
       }
     }
   ],
